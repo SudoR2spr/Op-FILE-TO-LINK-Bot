@@ -144,7 +144,7 @@ DATABASE_URL=mongodb_uri
 `FQDN` :  A Fully Qualified Domain Name if present. Defaults to `WEB_SERVER_BIND_ADDRESS` </details>
 
 <details>
-  <summary><b>How to Use :</b></summary>
+  <summary><b>Credits & Disclaimer and How to Use :</b></summary>
 
 :warning: **Before using the  bot, don't forget to add the bot to the `BIN_CHANNEL` as an Admin**
  
@@ -154,8 +154,11 @@ To get an instant stream link, just forward any media to the bot and boom, its f
   
 ![image](https://user-images.githubusercontent.com/88939380/145798095-3cdad108-96b0-4391-a540-cad144d6b864.png)
 
------
+----
 
+
+
+----
 ### Credits : 
 
 - [Adarsh Goel](https://github.com/adarsh-goel)
