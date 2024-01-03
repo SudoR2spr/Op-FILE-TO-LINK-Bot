@@ -1,0 +1,7 @@
+# (c) adarsh-goel
+# (c) sudor2spr @Opleech
+
+
+import time
+StartTime = time.time()
+__version__ = 1.1
