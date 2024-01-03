@@ -82,6 +82,14 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 💥∝❍≕≻All unwanted code removed. <br>
 💥∝❍≕≻A lot more tired of writing check out by deploying it. 
 
+## 𝐁𝐨𝐭𝐟𝐚𝐭𝐡𝐞𝐫 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬
+```
+start - ⚡️ bot alive cheking
+list - 📚 commands list
+help - 🤷‍♂️ how to how
+about - 🤖 Bot Details
+```
+
 
 and to stop the whole bot,
  do <kbd>CTRL</kbd>+<kbd>C</kbd>
