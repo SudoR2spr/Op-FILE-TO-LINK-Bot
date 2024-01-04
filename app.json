@@ -1,7 +1,6 @@
 {
   "name": "FILE-TO-LINK",
   "description": "A Pyrogram Telegram bot to Stream Telegram files to web @Opleech.",
-  "logo": "https://graph.org/file/611ed43debb5987f0b1d8.jpg",
   "keywords": [
       "telegram",
       "stream",
