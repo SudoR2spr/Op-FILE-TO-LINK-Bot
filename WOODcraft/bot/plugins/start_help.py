@@ -30,7 +30,7 @@ async def start(b, m):
             reply_markup=InlineKeyboardMarkup(
                 [
                    [InlineKeyboardButton("✢ 𝐎𝐰𝐧𝐞𝐫 ✢", url="https://t.me/Farooq_is_KING"), InlineKeyboardButton("✜ 𝐔𝐩𝐃𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✜", url="https://t.me/Opleech")],
-                    [InlineKeyboardButton("✜ 𝐃𝐞𝐩𝐥𝐨𝐲 𝐆𝐨 ✜", url="https://www.buymeacoffee.com/woodcraftop"), InlineKeyboardButton("✜ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ✜", url="https://t.me/WD_Topic_Group")],
+                    [InlineKeyboardButton("✜ 𝐃𝐞𝐩𝐥𝐨𝐲 𝐆𝐨 ✜", url="https://www.buymeacoffee.com/woodcraftop"), InlineKeyboardButton("✜ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ✜", url="https://t.me/WD_Topic_Group")]
                 ]
             ),
             
