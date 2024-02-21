@@ -1,7 +1,7 @@
 git+https://github.com/KurimuzonAkuma/pyrogram
 tgcrypto<=1.2.3
 aiohttp<=3.8.1
-python-dotenv<=0.20.0
+python-dotenv<=1.0.1
 motor
 aiofiles
 dnspython
