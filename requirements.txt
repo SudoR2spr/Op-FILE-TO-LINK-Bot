@@ -1,6 +1,6 @@
-pyrogram==2.0.38
+git+https://github.com/KurimuzonAkuma/pyrogram
 tgcrypto<=1.2.3
-aiohttp==3.9.1
+aiohttp<=3.8.1
 python-dotenv<=0.20.0
 motor
 aiofiles
@@ -8,4 +8,4 @@ dnspython
 apscheduler
 requests
 psutil
-pyromod
+pyromod==1.5
